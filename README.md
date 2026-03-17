@@ -1,10 +1,10 @@
 # 🏦 SBI Customer Churn Analytics (Finance Domain Project)
 
-**An End-to-End Data Analytics Project**
-Customer Behavior Analysis for Banking Retention Strategy
+**An End-to-End Data Analytics Project** <br>
+Customer Behavior Analysis for Banking Retention Strategy <br>
 
-**📌 Domain:** Finance / Banking Analytics
-**Tools Used:** Python | Pandas | Power BI | Data Visualization
+**📌 Domain:** Finance / Banking Analytics <br>
+**Tools Used:** Python | Pandas | Power BI | Data Visualization <br>
 
 ---
 
@@ -183,9 +183,9 @@ Aspiring Data Analyst
 
 ## 📬 Contact
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)<br>
-* 🔗 LinkedIn: https://linkedin.com/in/supriyakusuma09
-* 💻 GitHub: https://github.com/Supriya2098
+* 📧 Email: [supriyakusuma0905@gmail.com](mailto:your-email@example.com)<br>
+* 🔗 LinkedIn: https://linkedin.com/in/supriyakusuma09 <br>
+* 💻 GitHub: https://github.com/Supriya2098 <br>
 * contact: +91 9505265297
 
 ---
