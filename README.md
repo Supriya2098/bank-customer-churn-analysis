@@ -176,7 +176,7 @@ git clone https://github.com/Supriya2098/bank-customer-churn-analysis.git
 
 ## 👩‍💻 Author
 
-**Supriya Kusuma**
+**Supriya Kusuma** <br>
 Aspiring Data Analyst
 
 ---
